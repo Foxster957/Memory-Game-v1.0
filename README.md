@@ -1,4 +1,4 @@
-# Memory Game v1.0
+# Memory Game
 A really simple game played directly in the c# console.
 
 The game displays one out of three possible outputs: |¤|  |  |, |  |¤|  | or |  |  |¤|
